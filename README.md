@@ -1,3 +1,6 @@
+<h2>Live preview link for this project:  <a href="https://study-notion-frontend-pi-eight.vercel.app/">Study Notion | An Edtech Platform  </a></h2>
+<h3> This project is an EDtech platform. </br> Student can pay and  buy course, rate it, and many more functionality.</br>While if you login as Instructor you have dashboard where you can manage your course, your earning through a chart. </br>For better understanding Please check the above link </h3>
+
 <h1 align="center">Hi 👋, I'm Anshuman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0ANGtne-0Mh5yHsqES5O4C&ust=1717107188710000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND6t_Xws4YDFQAAAAAdAAAAABAE"/>
