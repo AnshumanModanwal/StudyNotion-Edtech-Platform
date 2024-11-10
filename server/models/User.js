@@ -16,11 +16,11 @@ const userSchema = new mongoose.Schema(
       trim: true,
     },
     // Define the email field with type String, required, and trimmed
-    email: {
-      type: String,
-      required: true,
-      trim: true,
-    },
+      email: {
+        type: String,
+        required: true,
+        trim: true,
+      },
 
     // Define the password field with type String and required
     password: {
